@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hexo</title>
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/GitBlog/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://ysqevilmax.github.io/GitBlog/"/>
   <updated>2017-05-18T08:59:12.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://ysqevilmax.github.io/GitBlog/</id>
   
   <author>
     <name>John Doe</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/05/18/hello-world/"/>
-    <id>http://yoursite.com/2017/05/18/hello-world/</id>
+    <link href="http://ysqevilmax.github.io/GitBlog/2017/05/18/hello-world/"/>
+    <id>http://ysqevilmax.github.io/GitBlog/2017/05/18/hello-world/</id>
     <published>2017-05-18T08:59:11.520Z</published>
     <updated>2017-05-18T08:59:12.000Z</updated>
     
